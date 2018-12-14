@@ -1,5 +1,9 @@
 package com.tt.student.pojo;
-
+/**
+ *@作者：zhangenhao
+ *@时间：2018/12/14 15:58
+ *@描述：
+ */
 public class Student {
     private String name;
     
